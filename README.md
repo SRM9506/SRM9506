@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Shakil! 👋
 
-<!--
-**SRM9506/SRM9506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Systems Engineer and IT professional currently transitioning into a career in Cloud, MLOps, and Cybersecurity. I learn by building and documenting.
 
-Here are some ideas to get you started:
+### 🛠 My Learning Path
+- **Infrastructure:** Proxmox, Linux, Networking (VLANs, pfSense)
+- **Cloud:** Building towards AWS/Azure/GCP certifications
+- **MLOps:** Exploring containerized AI inference and LLM orchestration
+- **Automation:** Python, Ansible, and Infrastructure as Code (IaC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+- [Homelab Infrastructure & Sandbox](https://github.com/SRM9506/Homelab-Project) - My journey building a professional-grade home lab.
+
+### 📈 Current Focus
+- [ ] Completing my Proxmox/pfSense network architecture.
+- [ ] Documenting troubleshooting logs for infrastructure deployment.
