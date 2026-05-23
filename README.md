@@ -3,10 +3,11 @@
 I am an aspiring Systems Engineer and IT professional currently transitioning into a career in Cloud, MLOps, and Cybersecurity. I learn by building and documenting.
 
 ### 🛠 My Learning Path
-- **Infrastructure:** Proxmox, Linux, Networking (VLANs, pfSense)
-- **Cloud:** Building towards AWS/Azure/GCP certifications
-- **MLOps:** Exploring containerized AI inference and LLM orchestration
-- **Automation:** Python, Ansible, and Infrastructure as Code (IaC)
+- **Coding & Automation:** Python, Bash scripting, and Infrastructure as Code (IaC)
+- **Infrastructure:** Proxmox, Ubuntu Server, Windows Server/Active Directory
+- **Networking:** pfSense, VLANs, Firewall configuration
+- **Cybersecurity:** Kali Linux, Metasploitable, Wazuh Monitoring
+- **Cloud/MLOps:** Nextcloud, Containerized AI inference pipelines
 
 ### 🚀 Featured Project
 - [Homelab Infrastructure & Sandbox](https://github.com/SRM9506/Homelab-Project) - My journey building a professional-grade home lab.
