@@ -34,7 +34,7 @@ Expanding to include pfSense, Active Directory, Kali Linux, and Wazuh SIEM.
 - [x] Proxmox VE hypervisor deployed and configured
 - [x] Ubuntu Server VM with Docker running production services
 - [x] Jellyfin and Nextcloud self-hosted and live
-- [ ] pfSense firewall and VLAN configuration
+- [x] pfSense firewall and VLAN configuration
 - [ ] Windows Server 2022 with Active Directory
 - [ ] Kali Linux security lab
 - [ ] Wazuh SIEM implementation
