@@ -1,8 +1,7 @@
 # Hi, I'm Shakil! 👋
-
-I'm a systems and cloud engineer in active transition into cybersecurity,
-cloud infrastructure, and IT operations. I learn by building real systems,
-breaking them, fixing them, and documenting everything publicly.
+I'm an IT professional transitioning into cybersecurity, cloud infrastructure,
+and IT operations. I learn by building real systems, breaking them, fixing
+them, and documenting everything publicly.
 
 ---
 
@@ -36,19 +35,20 @@ with automatic GitHub deployment.
 ---
 
 ## 📈 Current Focus
-
 - [x] Proxmox VE hypervisor deployed and configured
-- [x] Ubuntu Server VM with Docker running 10+ production services
+- [x] Ubuntu Server VM with Docker running 13+ production services
 - [x] pfSense firewall with DNS resolver and .lan domains
 - [x] Kali Linux security lab with RDP access
 - [x] Cloudflare Tunnel — remote access from anywhere
+- [x] Cloudflare Zero Trust Access — protecting all public services
 - [x] Portfolio live at mondol.dev
-- [ ] Windows Server 2022 with Active Directory
-- [ ] Metasploitable + DVWA security lab targets
-- [ ] Wazuh SIEM implementation
-- [ ] CompTIA A+ certification
+- [x] Windows Server 2022 with Active Directory
+- [x] Metasploitable2 security lab target deployed
+- [x] Wazuh SIEM implementation with agents and attack detection
+- [ ] Kerberoasting and AD attack practice
+- [ ] DVWA vulnerable web application
 - [ ] pfSense VLANs and network segmentation
-
+- [ ] CompTIA A+ certification
 ---
 
 ## 📚 Certifications
